@@ -48,13 +48,13 @@ API_KEY = getenv("API_KEY", 'NxGBNexGenBotsb069e5') # youtube song api key
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Astacostum/costumer",
+    "https://github.com/ITzastamusic/sukuna",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/zahar_updates")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/lbCHbKGyBZBkZmQ1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SEXY_SUKUNA_ABOUT")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/hindichatinggroupx")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 
